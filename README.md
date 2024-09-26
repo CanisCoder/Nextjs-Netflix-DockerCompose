@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/96056167/184530833-72c917e4-5cfc-46ca-9258-c2c84d534bc5.png)
 <be>
 <h2> Create an ec2 instance and install docker, docker-compose</h2>
-![image](https://github.com/user-attachments/assets/81e38c87-538c-42a9-865b-51d64da85259)
+![image](https://github.com/user-attachments/assets/81e38c87-538c-42a9-865b-51d64da85259.png)
 
 <h2>clone the repo-</h2>
   https://github.com/CanisCoder/Nextjs-Netflix-DockerCompose/
